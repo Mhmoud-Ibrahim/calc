@@ -1,0 +1,62 @@
+/* h1{
+    background-color: aqua;
+    color: blue;
+}
+.menu{
+    width: 300px;
+    height: 300px;
+    background-color: #090c;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;
+    margin: auto;
+    text-align: center;
+    display: none;
+}
+li{
+    font-size: 18px;
+    list-style: none;
+    border-bottom: 2px solid white;
+    padding: 5px;
+} */
+/* 
+img{
+    width: 20%;
+    margin: 10px;
+    border-radius: 10%;
+}
+
+div{
+    width: 50%;
+    background-color: #ccc;
+    margin:30px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 5
+    px solid greenyellow;
+} */
+
+
+#person{
+    width: 50%;
+    background:linear-gradient(rgb(216, 189, 37),yellowgreen , green,black);
+    height: 200px;
+    text-align: center;
+    border:3px solid rgb(128, 109, 6);
+    border-radius: 10px;
+    margin: 30px auto;
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: tea linear 3s infinite;
+}
+/* 
+@keyframes tea {
+    0%{transform: scale(1.1);}
+    50%{transform: scale(0.0)}
+   100%{transform: scale(1.1);  }
+} */
